@@ -1,1 +1,1 @@
-# Amazon-Customers-Data-Analysis
+This project analyzes Amazon product reviews using SQL, Python, and Natural Language Processing (NLP) techniques. It extracts customer feedback from an SQLite database, processes the data, performs sentiment analysis, and visualizes trends in customer opinions.
